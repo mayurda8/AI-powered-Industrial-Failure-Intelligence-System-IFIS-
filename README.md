@@ -1,4 +1,4 @@
-# AI-powered-Industrial-Failure-Intelligence-System-IFIS
+# Industrial-Failure-Intelligence-System-IFIS
 
 IFIS (Industrial Failure Intelligence System) is an end-to-end machine learning framework built to predict industrial equipment failures before breakdown, identify the core failure drivers, and prioritize maintenance actions based on risk severity.
 
